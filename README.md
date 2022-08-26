@@ -11,8 +11,8 @@ Tailwind makes building web sites much quicker and easier by the classes it prov
 
 This project took me around 20hrs to build.
 
-LiveLink 
-[paytmclone.vivektenali]("https://paytm-clone-vivektenali.netlify.app/")
+
+[Livelink]("https://paytm-clone-vivektenali.netlify.app/")
 
 
 
@@ -27,6 +27,9 @@ LiveLink
 ## Screenshots
 
 ![App Screenshot](./Assets/screencapture-paytm-clone-vivektenali-netlify-app-2022-08-21-21_39_25.png)
+
+
+![App Screenshot on different devices](./Assets/mockupimage.png)
 
 > Thank You  [Hitesh Sir](https://hiteshchoudhary.com/) for the guidance. 
 
